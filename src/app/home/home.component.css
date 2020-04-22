@@ -1,0 +1,50 @@
+.conteudo{
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    flex-wrap: wrap;
+}
+
+.artigos{
+    width: 500px;
+    display: flex;
+    justify-items: center;
+}
+
+.img-sp{
+    border-radius: 20px;
+    width: 500px;
+    height: auto;
+}
+
+h1{
+    color: cornflowerblue;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+h2{
+    color: brown;
+    font: 1.5em sans-serif;
+    font-weight: bold;
+}
+
+.img-br{
+    width: 50%;
+    height: auto;
+
+}
+
+.conteudo-br{
+    background-color: rgb(231, 231, 231);
+    padding-bottom: 100px;
+}
